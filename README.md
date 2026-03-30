@@ -1,47 +1,17 @@
-<div align=center>
+Hi, I'm Matt.
 
-  # About Me
-</div>
+I'm a sysadmin from Ontario, Canada and this is where I keep all my personal projects, scripts, and homelab documentation.
 
-<a href="#">
-  <img align="right" src="https://mwaldeck-stats.vercel.app/api/top-langs?username=matthewwaldeck&exclude_repo=mwaldeck-stats&langs_count=10"/>
-</a>
+This overview will be updated soon with some more info, but for now I'm stripping it down and cleaning a few things up.
 
 <!-- Need to be careful of sentence length in this section, otherwise it runs into the stats pane. -->
 <div align=left>
-  <a href="#">
-    <img align="center" src="https://mwaldeck-stats.vercel.app/api?username=matthewwaldeck&show_icons=true&rank_icon=percentile&hide=prs,contribs"/>
-  </a>
   
   ### What I'm up to
-  💻 <b>Currently working on: </b>A new Windows utility called "Squeak"<br>
-  💡 <b>What I'm learning about: </b>Networking and security<br>
-  📚 <b>What I'm reading: </b>Battle Angel Alita<br>
-  🎮 <b>What I'm playing: </b>Besiege<br>
-  📺 <b>What I'm watching: </b>Doctor Who<br>
+  💻 <b>Currently working on: </b>Security in the Homelab<br>
+  📚 <b>What I'm reading: </b>Dungeon Crawler Carl<br>
+  🎮 <b>What I'm playing: </b>LEGO Harry Potter<br>
+  📺 <b>What I'm watching: </b>Colin Furze's Tunnel Project<br>
   🎵 <b>I've been listening to: </b>My rock playlist<br>
   🎙️ <b>Current favourite podcast: </b> <a href="https://www.dungeonsanddaddies.com/">Dungeons & Daddies</a><br>
-  ### Useful Links
-  🍎 The best way to start coding | <a href="https://www.apple.com/swift/playgrounds/">Swift Playgrounds</a><br>
-  🥇 Fantastic first programming language | <a href="http://compsci.ca/holtsoft/">Turing</a><br>
-  💻 Fast and simple multi-language, multi-platform IDE | <a href="https://code.visualstudio.com/">Visual Studio Code</a><br>
-  🏃 Coding exercises to keep you sharp | <a href="https://leetcode.com">LeetCode</a><br>
-</div>
-
-<br>
-
-<div align=center>
-  
-  ## Ongoing Projects
-  <a href="https://github.com/matthewwaldeck/astroblaster">
-    <img align="center" src="https://mwaldeck-stats.vercel.app/api/pin/?username=matthewwaldeck&repo=astroblaster&theme=buefy" />
-  </a>
-  <a href="https://github.com/matthewwaldeck/squeak">
-    <img align="center" src="https://mwaldeck-stats.vercel.app/api/pin/?username=matthewwaldeck&repo=squeak&theme=buefy" />
-  </a>
-  <br>
-  <br>
-  <a href="mailto:mattwaldeck@protonmail.com">:mailbox:Email</a> | 
-  <a href="https://twitter.com/_Adm1nistrator">:bird:Twitter</a> | 
-  <a href="https://github.com/matthewwaldeck/matthewwaldeck/issues">:octocat:Github</a>
 </div>
