@@ -7,7 +7,7 @@ I'm a network admin from Ontario, Canada and this is where I keep all my persona
 ---
 
 <a href="#">
-  <img align="right" src="https://mwaldeck-stats.vercel.app/api/top-langs?username=matthewwaldeck&exclude_repo=mwaldeck-stats&langs_count=5"/>
+  <img align="right" src="https://mwaldeck-stats.vercel.app/api/top-langs?username=matt-waldeck&exclude_repo=mwaldeck-stats&langs_count=5"/>
 </a>
 
 <h3>What I'm up to</h3>
